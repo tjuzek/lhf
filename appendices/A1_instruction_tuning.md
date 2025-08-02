@@ -13,7 +13,7 @@ Thus, as a sanity check, we analyzed three popular instruction tuning datasets:
 2. [Dolly (2023)](https://huggingface.co/datasets/databricks/databricks-dolly-15k)
 3. [OASST1 English (2023)](https://huggingface.co/datasets/OpenAssistant/oasst1)
 
-We combined these into a single dataset for analysis (0.7 million tokens). There are other instruction tuning datasets available, but many of them include AI-generated content and were therefore excluded from this analysis.
+There are more instruction tuning datasets. Our focus is on datasets that consist of human preferences. Other datasets are AI-generated. Next, we combined these into a single dataset for analysis (0.7 million tokens). There are other instruction tuning datasets available, but many of them include AI-generated content and were therefore excluded from this analysis.
 
 As a baseline, we used all PubMed abstracts from the year 2020 (337.6 million tokens), i.e. data from prior to the release of ChatGPT. Both datasets were part-of-speech tagged using the same methodology as described in the main paper. All analyses were performed on base forms (lemmas).
 

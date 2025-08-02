@@ -1,0 +1,1 @@
+The rating website requires a LAMP stack. For the LAM of the LAMP stack, we refer to: https://www.digitalocean.com/community/tutorials/how-to-install-lamp-stack-on-ubuntu , the P of the LAMP stack can be found in this folder. 

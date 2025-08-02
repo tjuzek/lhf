@@ -19,7 +19,7 @@ We are trying to add an anonymous arxiv submission. Please check back again soon
 
 ## Licence 
 
-Our own code and data are licensed under a **CC BY-SA** licence. External datasets and third-party resources retain their original licences.  
+Our own code and data are licensed under a **CC BY-SA** licence. Some code was generated with the assistance of GitHub Copilot and is marked as such. External datasets and third-party resources retain their original licences.  
 
 
 ### Contact

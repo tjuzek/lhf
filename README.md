@@ -16,7 +16,7 @@ Large Language Models (LLMs) are known to overuse certain words, such as *delve*
 ## Citation
 The work is to appear in the Proceedings of the BIAS 2025 Workshop at ; it is peer-reviewed and revisions are worked in. We will add an Arxiv link soon. The OSF citation is up already: [https://osf.io/jy48s/](https://osf.io/jy48s/).
 
-<pre> ```bibtex
+<pre>
 @misc{Juzek_Ward_2025,
   title={Word Overuse and Alignment in Large Language Models: The Influence of Learning from Human Feedback},
   url={osf.io/jy48s},
@@ -25,7 +25,7 @@ The work is to appear in the Proceedings of the BIAS 2025 Workshop at ; it is pe
   author={Juzek, Tom S and Ward, Zina B},
   year={2025},
   month={Aug}
-}```</pre>
+}</pre>
 
 
 

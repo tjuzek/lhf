@@ -14,7 +14,7 @@ Large Language Models (LLMs) are known to overuse certain words, such as *delve*
 
 
 ## Citation
-The work is to appear in the Proceedings of the BIAS 2025 Workshop at ; it is peer-reviewed and revisions are worked in. We will add an Arxiv link soon. The OSF citation is up already: [https://osf.io/jy48s/](https://osf.io/jy48s/).
+The work is to appear in the Proceedings of the [BIAS 2025 Workshop](https://sites.google.com/view/bias-2025-ecmlpkdd/) at [ECML-PKKD](https://ecmlpkdd.org/); it is peer-reviewed and revisions are worked in. We will add an Arxiv link soon. The OSF citation is up already: [https://osf.io/jy48s/](https://osf.io/jy48s/).
 
 <pre>
 @misc{Juzek_Ward_2025,

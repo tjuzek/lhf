@@ -25,7 +25,7 @@ The work is to appear in the Proceedings of the BIAS 2025 Workshop at ; it is pe
   author={Juzek, Tom S and Ward, Zina B},
   year={2025},
   month={Aug}
-}
+}```
 
 
 

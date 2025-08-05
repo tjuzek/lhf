@@ -16,15 +16,15 @@ Large Language Models (LLMs) are known to overuse certain words, such as *delve*
 ## Citation
 The work is to appear in the Proceedings of the [BIAS 2025 Workshop](https://sites.google.com/view/bias-2025-ecmlpkdd/) at [ECML-PKKD](https://ecmlpkdd.org/); it is peer-reviewed and revisions are worked in. We will add an Arxiv link soon. The OSF citation is up already: [https://osf.io/jy48s/](https://osf.io/jy48s/).
 
-<pre>
-@misc{Juzek_Ward_2025,
-  title={Word Overuse and Alignment in Large Language Models: The Influence of Learning from Human Feedback},
-  url={osf.io/jy48s},
-  DOI={10.17605/OSF.IO/JY48S},
-  publisher={OSF},
-  author={Juzek, Tom S and Ward, Zina B},
-  year={2025},
-  month={Aug}
+<pre>@article{juzek2025word,
+  title     = {Word Overuse and Alignment in Large Language Models: The Influence of Learning from Human Feedback},
+  author    = {Tom S. Juzek and Zina B. Ward},
+  journal   = {arXiv preprint arXiv:2508.01930},
+  year      = {2025},
+  note      = {Accepted for publication in the Proceedings of the 5th Workshop on Bias and Fairness in AI (BIAS 2025) at ECML PKDD},
+  doi       = {10.48550/arXiv.2508.01930},
+  url       = {https://doi.org/10.48550/arXiv.2508.01930},
+  relatedDOI = {10.17605/OSF.IO/JY48S}
 }</pre>
 
 

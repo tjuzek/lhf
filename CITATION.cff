@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, a citation is appreciated (though not required; see the licence)."
+title: "lhf: code and data for 'Word Overuse and Alignment in Large Language Models'"
+type: software
+authors:
+  - family-names: "Juzek"
+    given-names: "Thomas Stephan"
+    orcid: "https://orcid.org/0000-0002-3204-3879"
+  - family-names: "Ward"
+    given-names: "Zina B."
+repository-code: "https://github.com/tjuzek/lhf"
+preferred-citation:
+  type: conference-paper
+  title: "Word Overuse and Alignment in Large Language Models: The Influence of Learning from Human Feedback"
+  authors:
+    - family-names: "Juzek"
+      given-names: "Thomas Stephan"
+      orcid: "https://orcid.org/0000-0002-3204-3879"
+    - family-names: "Ward"
+      given-names: "Zina B."
+  year: 2026
+  collection-title: "Machine Learning and Principles and Practice of Knowledge Discovery in Databases (BIAS 2025 @ ECML-PKDD)"
+  publisher: "Springer Nature Switzerland"
+  start: 243
+  end: 259
+  doi: "10.1007/978-3-032-19096-3_16"
+  url: "https://doi.org/10.1007/978-3-032-19096-3_16"
+  notes: "Open preprint: arXiv:2508.01930"

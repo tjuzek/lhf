@@ -42,3 +42,7 @@ Our websites have our contact details:
 
 - [Tom Juzek](https://mll.fsu.edu/person/tom-juzek)  
 - [Zina Ward](https://zinabward.com/)
+
+## AI Assistance
+
+Repository polished with Claude Code.

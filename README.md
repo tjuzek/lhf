@@ -14,19 +14,22 @@ Large Language Models (LLMs) are known to overuse certain words, such as *delve*
 
 
 ## Citation
-The work is to appear in the Proceedings of the [BIAS 2025 Workshop](https://sites.google.com/view/bias-2025-ecmlpkdd/) at [ECML-PKKD](https://ecmlpkdd.org/); it is peer-reviewed and revisions are worked in. OSF link: [https://osf.io/jy48s/](https://osf.io/jy48s/). Arxiv link: [https://arxiv.org/abs/2508.01930](https://arxiv.org/abs/2508.01930).
 
-<pre>@article{juzek2025word,
+If you use this code or data, a citation is appreciated (though not required; see the licence).
+
+The version of record is the Springer CCIS chapter (2026); an open preprint is available at arXiv:2508.01930.
+
+```bibtex
+@inbook{juzek-ward-2026-word,
   title     = {Word Overuse and Alignment in Large Language Models: The Influence of Learning from Human Feedback},
-  author    = {Tom S. Juzek and Zina B. Ward},
-  journal   = {arXiv preprint arXiv:2508.01930},
-  year      = {2025},
-  note      = {Accepted for publication in the Proceedings of the 5th Workshop on Bias and Fairness in AI (BIAS 2025) at ECML PKDD},
-  doi       = {10.48550/arXiv.2508.01930},
-  url       = {https://doi.org/10.48550/arXiv.2508.01930},
-  relatedDOI = {10.17605/OSF.IO/JY48S}
-}</pre>
-
+  author    = {Juzek, Thomas Stephan and Ward, Zina B.},
+  booktitle = {Machine Learning and Principles and Practice of Knowledge Discovery in Databases},
+  publisher = {Springer Nature Switzerland},
+  year      = {2026},
+  pages     = {243--259},
+  doi       = {10.1007/978-3-032-19096-3_16}
+}
+```
 
 ## Licence 
 

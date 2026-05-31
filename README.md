@@ -1,6 +1,6 @@
-# How Learning from Human Feedback Influences the Lexical Choices of Large Language Models
+# Word Overuse and Alignment in Large Language Models: The Influence of Learning from Human Feedback
 
-This repository contains code and data for our paper: **"How Learning from Human Feedback Influences the Lexical Choices of Large Language Models"**
+This repository contains code and data for our paper: **"Word Overuse and Alignment in Large Language Models: The Influence of Learning from Human Feedback"**
 
 
 ## Overview

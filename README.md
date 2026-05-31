@@ -46,6 +46,8 @@ Our websites have our contact details:
 - [Tom Juzek](https://mll.fsu.edu/person/tom-juzek)  
 - [Zina Ward](https://zinabward.com/)
 
+The included paper PDF is the author/workshop version (version of record © Springer, CCIS 2026), separate from the code and data licences above.
+
 ## AI Assistance
 
 Some of the code was written with the assistance of GitHub Copilot (marked as such in the code). Repository polished with Claude Code.

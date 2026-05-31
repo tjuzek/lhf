@@ -31,9 +31,12 @@ The version of record is the Springer CCIS chapter (2026); an open preprint is a
 }
 ```
 
-## Licence 
+## Licence
 
-Our own code and data are licensed under a **CC BY-SA** licence. Some code was generated with the assistance of GitHub Copilot and is marked as such. External datasets and third-party resources retain their original licences.  
+- **Code** (`code/`): MIT No Attribution (MIT-0). See [`LICENSE`](LICENSE). Use it freely, no attribution required.
+- **Data** (`data/`, `appendices/`): CC0 1.0 Universal (public domain dedication). See [`LICENSE-DATA`](LICENSE-DATA).
+
+External datasets and third-party resources retain their original licences.
 
 
 ### Contact
@@ -45,4 +48,4 @@ Our websites have our contact details:
 
 ## AI Assistance
 
-Repository polished with Claude Code.
+Some of the code was written with the assistance of GitHub Copilot (marked as such in the code). Repository polished with Claude Code.
